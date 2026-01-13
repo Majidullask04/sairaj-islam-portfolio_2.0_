@@ -127,7 +127,7 @@ const App: React.FC = () => {
 
                       {/* The Image itself moves slightly opposite to container to create depth */}
                       <img
-                        src="sairaj   islam .png"
+                        src="/sairaj-islam.png"
                         alt="Sairaj Islam"
                         className="w-[115%] h-[115%] max-w-none object-cover filter brightness-105 contrast-110 transition-transform duration-100 ease-out -ml-[7.5%] -mt-[7.5%]"
                         style={{
